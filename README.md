@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Erick López
 #### Yo soy un estudiante de programación. 👨🏽‍💻
-![Yo soy un estudiante de programación. 👨🏽‍💻](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<-- ![Yo soy un estudiante de programación. 👨🏽‍💻](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 Actualmente me encuentro cursando la carrera de Ingeniería en Computación en la Facultad de Ingeniería de la UNAM. ✏
 
