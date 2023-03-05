@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Acerca de mí;
+
+Actualmente me encuentro cursando la carrera de Ingeniería en Computación en la Facultad de Ingeniería de la UNAM.
+
+### 🌎 Redes sociales:
 
 <!--
 **ErickLpG/ErickLpG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
