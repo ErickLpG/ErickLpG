@@ -8,7 +8,7 @@ Actualmente me encuentro cursando la carrera de Ingeniería en Computación en l
 
 Habilidades: C / C# / Python / Java
 
-- 🔭 Estoy trabajando en un videojuego FPS sobre un auto lavado espacial ⭐💧 
+- 🔭 Creo videojuegos por diversión! ⭐💧 
 - 🌱 Estoy aprendiendo sobre herramientas Front-End: Css y JavaScript 🖥 
 - 📫 Cómo contactarme: ericklopezgonzalez602@gmail.com 
 
