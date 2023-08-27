@@ -1,5 +1,5 @@
 ### Hola 👋, soy Erick López!
-#### Yo soy un estudiante de programación. 👨🏽‍💻
+#### Soy un estudiante de programación. 👨🏽‍💻
 <!--
 ![Yo soy un estudiante de programación. 👨🏽‍💻](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 -->
