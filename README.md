@@ -13,5 +13,3 @@ Habilidades: C / C# / Python / Java
 - 📫 Cómo contactarme: ericklopezgonzalez602@gmail.com 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickLpG&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/ErickLpG)
